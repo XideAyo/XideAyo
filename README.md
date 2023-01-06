@@ -12,7 +12,7 @@
 - 📫 How to reach me **akinwaleayomide55@gmail.com**
 
 - ⚡ Fun fact **I believe in aliens**
-
+And I'm curious about astronomy 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
