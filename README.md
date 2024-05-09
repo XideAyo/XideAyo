@@ -1,9 +1,9 @@
 #<h1 align="center">Hi 👋, I'm Akinwale Ayomide</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Lagos, Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xideayo" alt="xideayo" /></a> </p>
 
-- 🔭 I’m currently working on **CodeCamp**
+- 🔭 I’m currently working on **Handii**
 
 - 👨‍💻 All of my projects are available at [akinwale-ayomide.netlify.app](akinwale-ayomide.netlify.app)
 
